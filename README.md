@@ -20,7 +20,7 @@ Tester ou accéder à des comptes sans autorisation est **illégal** et **pénal
 
 ## 🧭 Présentation
 
-`Hack Instagram` est présenté ici comme une **simulation pédagogique** destinée à démontrer comment les méthodes d’analyse (y compris des techniques d’IA/ML) peuvent aider à comprendre les vulnérabilités de mots de passe et à améliorer les défenses. Les modules fournis sont orientés vers la recherche, la formation et la sensibilisation.
+`Hack Instagram` est présenté ici est destinée à démontrer comment les méthodes d’analyse (y compris des techniques d’IA/ML) peuvent aider à comprendre les vulnérabilités de mots de passe et à améliorer les défenses. Les modules fournis sont orientés vers la recherche, la formation et la sensibilisation.
 
 ---
 
