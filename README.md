@@ -46,12 +46,6 @@ pip install -r requirements.txt
 
 ---
 
-## 🤝 Contribution
-
-Les contributions centrées sur la **sécurité défensive, l’éducation**, et la **recherche éthique** sont les bienvenues. Merci de lire `CONTRIBUTING.md` et de signer le CLA si nécessaire. Tout contributeur doit confirmer qu’il utilisera le code selon les règles éthiques du dépôt.
-
----
-
 ## 📜 Licence
 
 Projet publié pour **usage éducatif uniquement**. Incluez un fichier `LICENSE` et un texte clair dans le README indiquant que toute utilisation non autorisée est interdite.
