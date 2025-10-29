@@ -46,15 +46,6 @@ pip install -r requirements.txt
 
 ---
 
-## 🔐 Bonnes pratiques & éthique
-
-* N’exécutez aucune expérience contre des comptes ou systèmes sans **autorisation explicite écrite**.
-* Documentez toute expérimentation et conservez des preuves d’autorisation.
-* Privilégiez les environnements isolés (machines virtuelles, comptes tests).
-* Respectez la législation locale et les politiques de votre organisation.
-
----
-
 ## 🤝 Contribution
 
 Les contributions centrées sur la **sécurité défensive, l’éducation**, et la **recherche éthique** sont les bienvenues. Merci de lire `CONTRIBUTING.md` et de signer le CLA si nécessaire. Tout contributeur doit confirmer qu’il utilisera le code selon les règles éthiques du dépôt.
