@@ -13,9 +13,6 @@ Tester ou accéder à des comptes sans autorisation est **illégal** et **pénal
 
 **J'ai utilisé l'API de PASS REVELATOR que je remercie pour faire ce programme. Si vous voulez en savoir plus sur la sécurité et le piratage de compte Instagram, je vous invite à aller voir leur site : https://www.passwordrevelator.net/fr/passdecryptor**
 
-![Texte alternatif](./PASSDECRYPTOR_4.webp)
-
-
 ---
 
 ## 🧭 Présentation
