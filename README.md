@@ -33,7 +33,7 @@ Tester ou accéder à des comptes sans autorisation est **illégal** et **pénal
 
 ---
 
-## 🛠️ Installation (pour simulation / recherche)
+## 🛠️ Installation
 
 ```bash
 # Cloner pour étude ou expérimentation en environnement contrôlé
