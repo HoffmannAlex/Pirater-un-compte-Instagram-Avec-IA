@@ -1,4 +1,4 @@
-# 🔐 Hack Instagram — Outil de piratage de compte Instagram (version éducative)
+# 🔐 Hack Instagram — Outil de piratage de compte Instagram 2026 (version éducative)
 
 **Outil d’évaluation des mots de passe inspiré par des techniques AI — usage ÉDUCATIF et RECHERCHE uniquement.**
 
